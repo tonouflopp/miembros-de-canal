@@ -16,5 +16,6 @@ Miembros del canal:
  - Darh
  - ParaDevOne
  - HolyGrace
+ - ACruzDiaz
  - agrega el tuyo!!! :)
 
