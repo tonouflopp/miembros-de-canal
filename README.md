@@ -17,5 +17,6 @@ Miembros del canal:
  - ParaDevOne
  - HolyGrace
  - ACruzDiaz
+ - floppJr
  - agrega el tuyo!!! :)
 
